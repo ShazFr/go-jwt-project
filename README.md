@@ -16,8 +16,6 @@ A RESTful authentication API built using **Golang**, **Gin**, and **MongoDB**. T
 ---
 
 
----
-
 ## 📌 Features
 
 - ✅ JWT-based **user authentication**
